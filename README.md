@@ -1,1 +1,1 @@
-# cpsc542
+# CPSC 542 - Deep Learning and Computer Vision 
